@@ -4,32 +4,30 @@ layout: home
 nav_order: 1
 ---
 
-<h1 align="center">Tidy Tab Groups</h1>
-<h3 align="center">Tired of tab clutter? Effortlessly group, collapse, and organize your tabs with Tidy Tab Groups.</h3>
+# Schema Library
 
-<a href="https://chromewebstore.google.com/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf">
-<img style="height:100px" src="https://user-images.githubusercontent.com/53124886/111952712-34f12300-8aee-11eb-9fdd-ad579a1eb235.png">
-</a>
+Welcome to the [Schema library](https://carlyh-micb.github.io/JustDocs_schemas/) for the Data Hub project.
 
-<img alt="Chrome Web Store Version" src="https://img.shields.io/chrome-web-store/v/fohgbkobjdckaapjimleemkolchkmebf?style=flat"> <img alt="Chrome Web Store Last Updated" src="https://img.shields.io/chrome-web-store/last-updated/fohgbkobjdckaapjimleemkolchkmebf?style=flat">
+These is a library of active schema projects and so as documentation is refined the contents will change.
 
-<img alt="Chrome Web Store Stars" src="https://img.shields.io/chrome-web-store/stars/fohgbkobjdckaapjimleemkolchkmebf?style=flat"> <img alt="Chrome Web Store Users" src="https://img.shields.io/chrome-web-store/users/fohgbkobjdckaapjimleemkolchkmebf?style=flat">
+Because this work is all done within GitHub, the complete history of changes is available using GitHub Commit history tools.
 
-<br>
+## Add to the Library
 
-**Say goodbye to tab clutter and hello to effortless organization ✨**
+Note: Under active development
 
-**With Tidy Tab Groups, you can one-click to create new groups, automatically hide inactive groups, and highlight your active group ⭐**
+With data that you have or intend to collect, describe your data using the [Semantic Engine](https://www.semanticengine.org). You will download a .zip version of your schema which is a machine-readable version. Then on the main page of the Semantic Engine drag-and-drop your schema and generate a markdown version.
 
-**Need to quickly switch between tasks? Your last active tab is always remembered and ready for you 🎯**
+In GitHub upload your markdown file (which you can rename) to the schema folder. Edit this file to add the following markdown text to the top:
 
-**Getting lost between your sea of tabs? Tidy Tab Groups intelligently arranges your active tabs for quick access, so you never lose track of your work 📌**
+```
+---
+layout: default
+title: YOUR_TITLE_HERE
+---
+```
 
-**Whether you're managing multiple projects or just want a cleaner browser, Tidy Tab Groups is the effortless productivity boost for your browser. Try it out today, it's free! 💯**
+After you have made your file changes, commit your changes and wait for the documentation site to rebuild before viewing your results on the [main schema site](https://carlyh-micb.github.io/JustDocs_schemas/).
 
-[Install](/install){: .btn }
-[Docs](/docs){: .btn }
-[Contact Us](/contact){: .btn }
+Learn the GitHub skills to perform this work on our [Documentation site](https://climatesmartagcollab.github.io/Documentation/github/).
 
-<script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
-<script src="https://files.bpcontent.cloud/2024/10/28/15/20241028152445-GJRRV5W1.js"></script>
